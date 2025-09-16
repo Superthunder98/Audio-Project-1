@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "com.boxqkrtm.ide.cursor": "file:/Users/nick.harrison/Desktop/INBOX/com.unity.ide.cursor-master",
     "com.unity.ai.navigation": "2.0.8",
     "com.unity.collab-proxy": "2.8.2",
     "com.unity.ide.rider": "3.0.36",
