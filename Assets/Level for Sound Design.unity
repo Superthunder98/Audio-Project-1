@@ -171087,10 +171087,13 @@ MonoBehaviour:
   - trackName: Fighting
     state: 1
     musicClips:
-    - {fileID: 8300000, guid: 077e7103cef0c25439e226eb1471f5e7, type: 3}
+    - {fileID: 8300000, guid: b34ca88a343033e49bb9734945257e85, type: 3}
+    - {fileID: 8300000, guid: 3122bc9ad1f87a7488e99c631bf2531d, type: 3}
+    - {fileID: 8300000, guid: 84648cc84ca14f54bb420c836d6506d3, type: 3}
+    - {fileID: 8300000, guid: b54777ac4db9d124b9ad032ebe891f51, type: 3}
     volume: 1
     outputMixerGroup: {fileID: 8426258057616649091, guid: 855e36c5d423f44d6a9571cbdf1b2686, type: 2}
-    loop: 1
+    loop: 0
     playbackMode: 0
     avoidRepeatInRandom: 1
     cannotOverride: 02000000
@@ -171335,8 +171338,8 @@ MonoBehaviour:
     sparksSound: {fileID: 0}
     mixerGroupOutput: {fileID: 3486777540803879219, guid: 855e36c5d423f44d6a9571cbdf1b2686, type: 2}
     isLit: 0
-    leftSpeakerAudio: {fileID: 0}
-    rightSpeakerAudio: {fileID: 0}
+    leftSpeakerAudio: {fileID: 8300000, guid: caef3b8e9d2686a49929c2045cee1cad, type: 3}
+    rightSpeakerAudio: {fileID: 8300000, guid: 13879659116c9514fb69907bf93186a0, type: 3}
     leftSpeakerSource: {fileID: 55218316}
     rightSpeakerSource: {fileID: 1811146560}
 --- !u!114 &2049660019
@@ -251565,7 +251568,7 @@ Transform:
   m_GameObject: {fileID: 4995989910921411711}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0.4127827, z: -0, w: -0.91082954}
-  m_LocalPosition: {x: -18.126, y: 0.825, z: 2.01}
+  m_LocalPosition: {x: 19.3, y: 7.73, z: -3.2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
