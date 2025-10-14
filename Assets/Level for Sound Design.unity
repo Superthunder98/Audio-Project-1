@@ -170826,8 +170826,8 @@ MonoBehaviour:
     deathVolume: 1
     vocalisationAudioSource: {fileID: 0}
     attackAudioSource: {fileID: 0}
-    vocalisationMixerGroup: {fileID: 0}
-    attackMixerGroup: {fileID: 0}
+    vocalisationMixerGroup: {fileID: 991869612853704367, guid: 855e36c5d423f44d6a9571cbdf1b2686, type: 2}
+    attackMixerGroup: {fileID: 62277368894661753, guid: 855e36c5d423f44d6a9571cbdf1b2686, type: 2}
     attackSoundDelay: 1
   - enemyName: Choul
     enemyType: 0
@@ -171024,14 +171024,14 @@ MonoBehaviour:
   menuAudioSetup:
     audioSource: {fileID: 1351091343}
     mixerGroup: {fileID: 2888847186314242983, guid: 855e36c5d423f44d6a9571cbdf1b2686, type: 2}
-  menuToggleOn: {fileID: 0}
-  menuToggleOff: {fileID: 0}
+  menuToggleOn: {fileID: 8300000, guid: 1bd8e0e38d8aa9d48a10948007b73564, type: 3}
+  menuToggleOff: {fileID: 8300000, guid: 1bd8e0e38d8aa9d48a10948007b73564, type: 3}
   menuVolume: 1
   buttonAudioSetup:
     audioSource: {fileID: 572637370}
     mixerGroup: {fileID: -6333195497276841129, guid: 855e36c5d423f44d6a9571cbdf1b2686, type: 2}
-  buttonToggleOn: {fileID: 0}
-  buttonToggleOff: {fileID: 0}
+  buttonToggleOn: {fileID: 8300000, guid: 1bd8e0e38d8aa9d48a10948007b73564, type: 3}
+  buttonToggleOff: {fileID: 8300000, guid: 1bd8e0e38d8aa9d48a10948007b73564, type: 3}
   buttonVolume: 1
   notificationAudioSetup:
     audioSource: {fileID: 789795370}
@@ -171054,7 +171054,7 @@ MonoBehaviour:
   dayNightAudioSetup:
     audioSource: {fileID: 1727883339}
     mixerGroup: {fileID: -3681435545590639334, guid: 855e36c5d423f44d6a9571cbdf1b2686, type: 2}
-  dayNumberSound: {fileID: 0}
+  dayNumberSound: {fileID: 8300000, guid: fd9c1b6ad44e9e343a3f37b00c5bba93, type: 3}
   dayAnnouncementVolume: 1
   levelUpAudioSetup:
     audioSource: {fileID: 200953308}
@@ -171111,7 +171111,8 @@ MonoBehaviour:
     state: 2
     musicClips:
     - {fileID: 8300000, guid: e87722c2e20a8524c87a34aee6742567, type: 3}
-    volume: 1
+    - {fileID: 8300000, guid: e87722c2e20a8524c87a34aee6742567, type: 3}
+    volume: 0.9998
     outputMixerGroup: {fileID: 8426258057616649091, guid: 855e36c5d423f44d6a9571cbdf1b2686, type: 2}
     loop: 1
     playbackMode: 1
@@ -171387,7 +171388,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   riverProfiles:
-  - riverAudioClip: {fileID: 0}
+  - riverAudioClip: {fileID: 8300000, guid: cb58f6d24ee665f41a8f7d35c7a0bbc3, type: 3}
     audioSource: {fileID: 1270426883}
     mixerGroup: {fileID: -2838175906123992593, guid: 855e36c5d423f44d6a9571cbdf1b2686, type: 2}
     riverPath: {fileID: 1649503141}
@@ -171403,7 +171404,7 @@ MonoBehaviour:
     currentSegmentIndex: 0
     currentSegment: 0
     segmentProgress: 0
-  - riverAudioClip: {fileID: 0}
+  - riverAudioClip: {fileID: 8300000, guid: cb58f6d24ee665f41a8f7d35c7a0bbc3, type: 3}
     audioSource: {fileID: 173789222}
     mixerGroup: {fileID: -2838175906123992593, guid: 855e36c5d423f44d6a9571cbdf1b2686, type: 2}
     riverPath: {fileID: 1574762471}
