@@ -86,8 +86,8 @@ Material:
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 0.353}
     - _Color0: {r: 0.22794122, g: 0.778, b: 0.96593857, a: 0}
-    - _ColorBottom: {r: 0.7, g: 0.8, b: 1, a: 1}
-    - _ColorTop: {r: 0.4, g: 0.6, b: 1, a: 1}
+    - _ColorBottom: {r: 0.69794816, g: 0.79179275, b: 0.98563737, a: 1}
+    - _ColorTop: {r: 0.3979482, g: 0.59179276, b: 0.98768914, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColorUI: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
